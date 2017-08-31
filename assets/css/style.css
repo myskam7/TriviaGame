@@ -1,0 +1,59 @@
+
+.jumbotron {
+    box-sizing: border-box;
+    height: 600px;
+    background-color: rgba(247, 255, 0, 0.00);
+  }
+  
+  .main-button-container {
+    margin-top: 175px;
+    max-width: 610px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .timer-p {
+    margin-top: 40px;
+  }
+  
+  .answer:hover {
+    background: lightskyblue;
+    color: red;
+  }
+  
+  .answer {
+    padding-top: 7px;
+    height: 45px;
+    color: black;
+    padding-left: 14px;
+    background-color: white;
+    border-radius: 4px;
+  }
+  
+  .first-answer {
+    margin-top: 40px;
+  }
+
+  .btn{
+      background-color: red;
+      border-color: wheat;
+  }
+  .btn:hover {
+      border-color: lightcoral;
+     background-color: white;
+     color: red;
+  }
+  
+  .reset-button {
+    margin-top: 40px;
+  }
+  
+  .summary-correct {
+    margin-top: 40px;
+    font-weight: bold;
+  }
+  
+  body {
+    background-color: rgb(248, 248, 85);
+    color: blue;
+  }
